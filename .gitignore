@@ -1,0 +1,8 @@
+.ideas
+.vscode
+__pycache__
+/Anchor Control/Trilat_Swarm_Optim/wandb
+/Anchor Control/wandb
+*.pkl
+/Machine-Learning/Objective 2/ResNeXt/MoreInterruptions/wandb
+*.png

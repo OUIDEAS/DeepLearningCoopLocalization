@@ -1,0 +1,5 @@
+{
+  "Training_Data": 1000000,
+  "Validation_Data":10000,
+  "Test_Data":100
+}
